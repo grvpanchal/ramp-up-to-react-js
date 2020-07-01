@@ -1,7 +1,7 @@
 # Overview
 This is a quick guide to ramp up to React JS by beginning with essential JavaScript knowledge to code in React
 
-##Content
+## Content
 - HTML for SPA
 - CSS for SPA
 - Core of JavaScript
