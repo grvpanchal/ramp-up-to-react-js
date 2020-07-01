@@ -1,37 +1,44 @@
-## Welcome to GitHub Pages
+# Overview
+This is a quick guide to ramp up to React JS by beginning with essential JavaScript knowledge to code in React
 
-You can use the [editor on GitHub](https://github.com/grvpanchal/ramp-up-to-react-js/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+##Content
+- HTML for SPA
+- CSS for SPA
+- Core of JavaScript
+    - Declaration, Datatypes and Type conversions
+    - Comparisions
+    - Logical Operators
+    - Objects
+    - Arrays
+    - Destructuring assignment
+    - Arrow Function and binding
+    - Decorators and forwarding
+    - ProtoTypes
+    - Closure
+    - ES6 Modules
+    - Error Handling
+    - Ways of Promises with Requests and Generators
+    - Classes
+    - Understanding Event Loop
+    - DOM Tree
+- Adjusting to React
+    - Introduction
+    - Imperative and Declarative
+    - Understanding to VDOM
+    - Adopting JSX writing style
+    - Bending CSS to Objects
+    - Hello World with CDN
+- Prerequisite of React
+    - npm
+        - saving and executing
+        - package.json options
+        - environment variables
+        - Linting Config
+        - Ejecting Configuration
+    - Webpack
+        - Dev Server
+        - Babel
+        - Resource Import with Loaders
+        - Uglify??
+- 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/grvpanchal/ramp-up-to-react-js/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
