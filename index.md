@@ -14,10 +14,10 @@ Everything you see on the web is built on HTML and CSS. JavaScript only gives th
 
 ### Content
 - [Clear Introduction](/html-css/clear-introduction)
-- HTML
-- CSS
-- Developer's insight into UI and UX
-- Essential HTML and CSS for SPA
+- [HTML](/html-css/html)
+- [CSS](/html-css/css)
+- [Developer's insight into UI and UX](/html-css/developers-insight-into-ui-ux)
+- [Essential HTML and CSS for SPA](/html-css/essential-html-css-for-spa)
 
 ## Part 2: Core of JavaScript
 Once your core of javascript is strong, you can work in any front end Framework with ease. Using this knowledge you could earn the most merit in Web development on Apps like SPA and PWA. Many developers in interview study a lot on React and redux but fails to answer the core mechanisms on how object works. 70% developers in interview who know redux, fail to answer below example
@@ -60,7 +60,7 @@ If you are unable to answer this you need to make you core knowledge of JavaScri
 - Airbnb Coding Style
 - Tests
 
-<span style="font-size: 56px; color: red"> Do not Start the Below section unless you have completed the Core of JavaScript<span>
+> Do not Start the Below section unless you have completed the Core of JavaScript
 
 ## Part 3: Adjusting to React
 Starting coding in react project directy
