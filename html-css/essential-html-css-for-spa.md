@@ -9,6 +9,7 @@ SPAs like React and Angular generate their own index.html and css is loaded as c
 - Use `<div>` for block and `span` for inline arrangement
 - Remember all form elements are inline by default, CSS framework's make them block for responsiveness
 - Know your meta tags - https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/The_head_metadata_in_HTML
+
 ## For CSS
 - Understand the `Box Model` and box-sizing property - https://css-tricks.com/the-css-box-model/
 - Understand various options of  `display` and `position` property.
