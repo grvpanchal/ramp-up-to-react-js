@@ -1,5 +1,7 @@
 # Overview
-This is a quick guide to ramp up to React JS by beginning with essential HTMl CSS and JavaScript knowledge to code in React. Initially when I started React without knowing ES6, It was a lot to grasp and difficult wrap thing around in head. The Pathway below is design to be efficient in HTML, CSS and JS first. This is important as Learning react may look easy but while coding if the core of JavaScript is not clear, you will have huge trouble in debugging the code.
+This is a quick guide to ramp up to React JS by beginning with essential HTML CSS and JavaScript knowledge to code in React. 
+
+Initially when I started React without knowing ES6, It was a lot to grasp and difficult wrap thing around in head. The Pathway below is design to be efficient in HTML, CSS and JS first. This is important as Learning react may look easy but while coding if the core of JavaScript is not clear, you will have huge trouble in debugging the code.
 
 As you move along the parts, you dont directly start ReactJS coding, instead you first have to get accustomed to syntax like JSX, CSS as Objects and way to think before writing in ReactJS. Understand first what React does with light DOM using virtual DOM. Once, your mind is prepared, learning React becomes a hell lot easier. As you know React is just a library and final product (i.e. websites) is amalgamation of architecture and various technologies which are addons to React Library. Improper knowledge of this amalgamation results in destructive self growth in frontend technology.
 
@@ -72,7 +74,7 @@ Starting coding in react project directy
 
 ## Part 4: Prerequisites of React
 - npm
-    - Saving and executing
+    - Saving and executing packages
     - package.json options
     - environment variables
     - Linting Config
@@ -107,6 +109,7 @@ Starting coding in react project directy
 - Redux
     - thunk
     - SAGA
+
 ## Part 7: Debugging, Testing and Resources
 - Debugging Tools
 - Unit Testing Tools
