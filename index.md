@@ -96,6 +96,9 @@ Starting coding in react project directy is a bad practice and should be avoided
 <img src="./assets/img/part-4.png" style="display: block; margin: 0 auto; max-width: 100%" />
 
 In previous part's final chapter, you saw how React with JSX is compiled using libraries like React, React DOM and babel. That example was good for small applications. However while working on bigger project a compiled version is required offload client resources for compilation and improve performance in loading. Hence we first have to understand how to work with node package manager(npm) and Webpack that collects the resource and compiles the JSX code.
+
+### Content
+
 - npm
     - [Saving and executing packages](https://www.sitepoint.com/beginners-guide-node-package-manager/)
     - [package.json options](https://flaviocopes.com/package-json/)
