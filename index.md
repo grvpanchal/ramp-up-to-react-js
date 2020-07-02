@@ -6,10 +6,14 @@ This is a quick guide to ramp up to React JS by beginning with essential HTML CS
 
 Initially when I started React without knowing ES6, It was a lot to grasp and difficult wrap thing around in head. The Pathway below is design to be efficient in HTML, CSS and JS first. This is important as Learning react may look easy but while coding if the core of JavaScript is not clear, you will have huge trouble in debugging the code.
 
+<img src="./assets/img/part-0.png" style="display: block; margin: 0 auto; max-width: 100%" />
+
 As you move along the parts, you dont directly start ReactJS coding, instead you first have to get accustomed to syntax like JSX, CSS as Objects and way to think before writing in ReactJS. Understand first what React does with light DOM using virtual DOM. Once, your mind is prepared, learning React becomes a hell lot easier. As you know React is just a library and final product (i.e. websites) is amalgamation of architecture and various technologies which are addons to React Library. Improper knowledge of this amalgamation results in destructive self growth in frontend technology.
 
 ## Part 1: Understanding HTML and CSS relation to Browser
-This is first and foremost part every developer working with website should know. Forget JavaScript right now. JavaScript only won't make content appear on to browser but HTML and CSS will. 
+This is first and foremost part every developer working with website should know. Forget JavaScript right now. JavaScript only won't make content appear on to browser but HTML and CSS will.
+
+<img src="./assets/img/part-1.png" style="display: block; margin: 0 auto; max-width: 100%" />
 
 Young developer are directly moved to React and Angular and that is a big red indicator for their personal skill development. It's not young developers are bad at HTMl/CSS. The major problem is not HTML/CSS but the exposure they are given to it. While taking interview many candidates directly jump on to technologies like Angular and ReactJS (JavaScript Framework) without understanding the internal workings of HTML and CSS.
 
@@ -23,6 +27,9 @@ Everything you see on the web is built on HTML and CSS. JavaScript only gives th
 - [Essential HTML and CSS for SPA](/html-css/essential-html-css-for-spa)
 
 ## Part 2: Core of JavaScript
+
+<img src="./assets/img/part-2.png" style="display: block; margin: 0 auto; max-width: 100%" />
+
 Once your core of javascript is strong, you can work in any front end Framework with ease. Using this knowledge you could earn the most merit in Web development on Apps like SPA and PWA. Many developers in interview study a lot on React and redux but fails to answer the core mechanisms on how object works. 70% developers in interview who know redux, fail to answer below example
 ```js
 const a = { name: 'abc' };
@@ -36,7 +43,7 @@ If you are unable to answer this, you need to make your core knowledge of JavaSc
 - [Declaration, Datatypes and Type conversions](/core-of-javascript/declaration-datatypes-and-type-conversions)
 - [Comparisions](https://javascript.info/comparison)
 - [Operators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Operators) (Majorly [Logical](https://javascript.info/logical-operators))
-- Loops and Conditions
+- [Loops and Conditions]()
 - [Iterators and Generators](https://javascript.info/generators-iterators) ([Second Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Iterators_and_Generators))
 - [Objects](https://javascript.info/object-basics)
 - Data Structures
@@ -68,6 +75,9 @@ If you are unable to answer this, you need to make your core knowledge of JavaSc
 > Do not Start the Below section unless you have completed the Core of JavaScript
 
 ## Part 3: Adjusting to React
+
+<img src="./assets/img/part-3.png" style="display: block; margin: 0 auto; max-width: 100%" />
+
 Starting coding in react project directy is a bad practice and should be avoided. We have to first modulate the mind's approach on how to relating desired HTML and CSS output with component. While coming in from imperative ecosystem like jQuery, you have to tweak your mind to think in a declarative fashion to start working with React. Below are the steps to do so.
 
 ### Content
@@ -82,6 +92,9 @@ Starting coding in react project directy is a bad practice and should be avoided
 - [Hello World with CDNs](hello-world-with-cdns)
 
 ## Part 4: Prerequisites of React
+
+<img src="./assets/img/part-4.png" style="display: block; margin: 0 auto; max-width: 100%" />
+
 In previous part's final chapter, you saw how React with JSX is compiled using libraries like React, React DOM and babel. That example was good for small applications. However while working on bigger project a compiled version is required offload client resources for compilation and improve performance in loading. Hence we first have to understand how to work with node package manager(npm) and Webpack that collects the resource and compiles the JSX code.
 - npm
     - [Saving and executing packages](https://www.sitepoint.com/beginners-guide-node-package-manager/)
@@ -98,8 +111,13 @@ In previous part's final chapter, you saw how React with JSX is compiled using l
 - [Create React App](https://create-react-app.dev/docs/getting-started/)
 
 ## Part 5: Hierarchy of React
+
+<img src="./assets/img/part-5.png" style="display: block; margin: 0 auto; max-width: 100%" />
+
 React is just a library. However every React Project is design with an hierarchy where the Apps.js load the react router. Then the specific route load the presentation or container component and later these components load the operation components of the project. Here is a sample repo to showcase this organisation: https://github.com/meetajhu/react-spa-template.
 Hence, the learning path below is organised in same fashion to relate you work flow. This Hierarchy is further used to relate to usablity and flow redux state management.
+
+<img src="./assets/img/heirarchy-of-react.png" style="display: block; margin: 0 auto; max-width: 100%" />
 
 ### Content
 - Router
@@ -107,9 +125,7 @@ Hence, the learning path below is organised in same fashion to relate you work f
 - [Presentation and Container Components(also known a modules, views in other framework)](https://css-tricks.com/learning-react-container-components/#container-components)
 - Components
     - [Rendering the JSX](https://itnext.io/react-jsx-rendering-4405d3a3d6c3)
-    - Loop and Conditional Rendering
-        - https://reactjs.org/docs/conditional-rendering.html
-        - https://scotch.io/tutorials/7-ways-to-implement-conditional-rendering-in-react-applications
+    - [Loop and Conditional Rendering](/react/loop-and-conditional-rendering)
     - [Working with Props](https://itnext.io/what-is-props-and-how-to-use-it-in-react-da307f500da0)
     - [Composition vs Inheritance](https://reactjs.org/docs/composition-vs-inheritance.html)
     - [Passing the Data to Component: State and Lifecycle](https://itnext.io/react-understanding-state-lifecycle-d45df5d2cf3f) ([Second Reference](https://itnext.io/react-setstate-usage-and-gotchas-ac10b4e03d60))
@@ -124,6 +140,10 @@ Hence, the learning path below is organised in same fashion to relate you work f
 - [Summary of fundamentals](https://www.freecodecamp.org/news/all-the-fundamental-react-js-concepts-jammed-into-this-single-medium-article-c83f9b53eac2/)
         
 ## Part 6: Diffusing State Management onto React Architecture
+
+<img src="./assets/img/part-6.png" style="display: block; margin: 0 auto; max-width: 100%" />
+
+Understand how a single state object works for maintaining the state of the entire website. 
 - [The State of Immutability](https://medium.com/dailyjs/the-state-of-immutability-169d2cd11310)
 - [Available State Management](https://openexpoeurope.com/the-10-best-tools-for-state-management-in-front-end/)
 - [Redux](/state-management/redux)
@@ -132,6 +152,9 @@ Hence, the learning path below is organised in same fashion to relate you work f
 - [React Hooks vs Redux](https://tsh.io/blog/react-state-management-react-hooks-vs-redux/#:~:text=React%20state%20management%20%E2%80%93%20why%20is,result%20of%20the%20user's%20action)
 
 ## Part 7: Debugging, Testing and Resources
+
+<img src="./assets/img/part-7.png" style="display: block; margin: 0 auto; max-width: 100%" />
+
 - [Debugging Tools](https://blog.logrocket.com/debug-react-applications-with-the-new-react-devtools/)
 - [Unit Testing Tools](https://reactjs.org/docs/testing.html)
 - [Resources](https://github.com/enaqx/awesome-react)

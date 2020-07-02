@@ -1,11 +1,10 @@
 # Loops and Conditions
 
-## Loops
+## Loops in JSX
 
-- [for/while/do...while](https://javascript.info/while-for)
-- [for...in and for...of](https://alligator.io/js/for-of-for-in-loops/)
+- https://reactjs.org/docs/lists-and-keys.html
 
-## Conditions
+## Conditions in JSX
 
-- [if...else](https://javascript.info/ifelse)
-- [switch](https://javascript.info/switch)
+-https://reactjs.org/docs/conditional-rendering.html
+- https://scotch.io/tutorials/7-ways-to-implement-conditional-rendering-in-react-application
