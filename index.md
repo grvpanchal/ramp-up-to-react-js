@@ -13,7 +13,7 @@ Young developer are directly moved to React and Angular is a big red indicator f
 Everything you see on the web is built on HTML and CSS. JavaScript only gives the interactiveness to a site. Now in the modern age, the site needs to work as an App. So JavaScript Frameworks are made to make the site work as an app. There is a major practice problem such that developers get too much involved in framework JS. I have heard developers losing grip on HTML and CSS as tickets have major work on App improvements bit and not UI changes. I recommend developer to practicing on developing an app from scratch, once a month, so they get full insight of how web architecture of SPA and PWA work around to generate HTML DOM and CSS.
 
 ### Content
-- Clear Introduction
+- [Clear Introduction](/html-css/clear-introduction)
 - HTML
 - CSS
 - Developer's insight into UI and UX
