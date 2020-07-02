@@ -82,12 +82,12 @@ This is a quick guide to ramp up to React JS by beginning with essential JavaScr
 - Summary of fundamentals
         
 ## Part 6: Diffusing State Management onto React Architecture
-    - The State of Immutability
-    - Redux
-        - thunk
-        - SAGA
+- The State of Immutability
+- Redux
+    - thunk
+    - SAGA
 ## Part 7: Debugging, Testing and Resources
-    - Debugging Tools
-    - Unit Testing Tools
-    - Resources
+- Debugging Tools
+- Unit Testing Tools
+- Resources
     
