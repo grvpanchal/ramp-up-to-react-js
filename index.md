@@ -123,7 +123,7 @@ Hence, the learning path below is organised in same fashion to relate you work f
 <img src="./assets/img/heirarchy-of-react.png" style="display: block; margin: 0 auto; max-width: 100%" />
 
 ### Content
-- Router
+- [Router](https://reactrouter.com/web/guides/quick-start)
     - [Lazy Loading and Code Splitting](https://reactjs.org/docs/code-splitting.html)
 - [Presentation and Container Components(also known a modules, views in other framework)](https://css-tricks.com/learning-react-container-components/#container-components)
 - Components
@@ -147,6 +147,9 @@ Hence, the learning path below is organised in same fashion to relate you work f
 <img src="./assets/img/part-6.png" style="display: block; margin: 0 auto; max-width: 100%" />
 
 Understand how a single state object works for maintaining the state of the entire website. 
+
+### Content
+
 - [The State of Immutability](https://medium.com/dailyjs/the-state-of-immutability-169d2cd11310)
 - [Available State Management](https://openexpoeurope.com/the-10-best-tools-for-state-management-in-front-end/)
 - [Redux](/state-management/redux)
@@ -157,6 +160,8 @@ Understand how a single state object works for maintaining the state of the enti
 ## Part 7: Debugging, Testing and Resources
 
 <img src="./assets/img/part-7.png" style="display: block; margin: 0 auto; max-width: 100%" />
+
+### Content
 
 - [Debugging Tools](https://blog.logrocket.com/debug-react-applications-with-the-new-react-devtools/)
 - [Unit Testing Tools](https://reactjs.org/docs/testing.html)
