@@ -89,7 +89,7 @@ Starting coding in react project directy is a bad practice and should be avoided
 - [Bending CSS to Objects](https://www.w3schools.com/react/react_css.asp)
 - [Ways of Styling in React](https://blog.bitsrc.io/5-ways-to-style-react-components-in-2019-30f1ccc2b5b)
 - [Thinking in React](https://reactjs.org/docs/thinking-in-react.html)
-- [Hello World with CDNs](hello-world-with-cdns)
+- [Hello World with CDNs](/react/hello-world-with-cdns)
 
 ## Part 4: Prerequisites of React
 

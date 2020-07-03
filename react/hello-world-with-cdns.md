@@ -24,7 +24,7 @@ There are 2 approaches to this. One with JSX via babel and another one in pure J
 </body>
 </html>
 ```
-[Click here for demo](examples/react-cdn.html)
+[Click here for demo](/examples/react-cdn.html)
 
 ## With JSX
 
@@ -45,4 +45,4 @@ There are 2 approaches to this. One with JSX via babel and another one in pure J
 </body>
 </html>
 ```
-[Click here for demo](examples/react-cdn-jsx.html)
+[Click here for demo](/examples/react-cdn-jsx.html)
