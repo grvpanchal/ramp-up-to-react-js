@@ -1,23 +1,23 @@
 
-> Read Through [Flavio Copes React Handbook](https://flaviocopes.nyc3.digitaloceanspaces.com/react-handbook/react-handbook.pdf) to progess at ultra fast pace
+> Read Through [Flavio Copes React Handbook](https://flaviocopes.nyc3.digitaloceanspaces.com/react-handbook/react-handbook.pdf) to progress at an ultra-fast pace
 
 # Overview
-This is a quick guide to ramp up to React JS by beginning with essential HTML CSS and JavaScript knowledge to code in React. 
+This is a quick guide to ramp up to ReactJS by beginning with essential HTML CSS and JavaScript knowledge to code in React. 
 
-Initially when I started React without knowing ES6, It was a lot to grasp and difficult wrap thing around in head. The Pathway below is design to be efficient in HTML, CSS and JS first. This is important as Learning react may look easy but while coding if the core of JavaScript is not clear, you will have huge trouble in debugging the code.
+Initially, when I started ReactJS without knowing ES6, It was a lot to grasp and difficult wrap thing around in the head. The Pathway below is designed to be efficient in HTML, CSS and JS first. This is important as Learning react may look easy but while coding if the core of JavaScript is not clear, you will have huge trouble in debugging the code.
 
 <img src="./assets/img/part-0.png" style="display: block; margin: 0 auto; max-width: 100%" />
 
-As you move along the parts, you dont directly start ReactJS coding, instead you first have to get accustomed to syntax like JSX, CSS as Objects and way to think before writing in ReactJS. Understand first what React does with light DOM using virtual DOM. Once, your mind is prepared, learning React becomes a hell lot easier. As you know React is just a library and final product (i.e. websites) is amalgamation of architecture and various technologies which are addons to React Library. Improper knowledge of this amalgamation results in destructive self growth in frontend technology.
+As you move along the parts, you don't directly start ReactJS coding, instead, you first have to get accustomed to syntax like JSX, CSS as Objects and way to think before writing in ReactJS. Understand first what React does with light DOM using virtual DOM. Once, your mind is prepared, learning React becomes a hell lot easier. As you know React is just a library and final product (i.e. websites) is an amalgamation of architecture and various technologies which are add-ons to React Library. Improper knowledge of this amalgamation results in destructive self-growth in frontend technology.
 
 ## Part 1: Understanding HTML and CSS relation to Browser
-This is first and foremost part every developer working with website should know. Forget JavaScript right now. JavaScript only won't make content appear on to browser but HTML and CSS will.
+This is the first and foremost part every developer working with a website should know. Forget JavaScript right now. JavaScript only won't make content appear on to browser but HTML and CSS will.
 
 <img src="./assets/img/part-1.png" style="display: block; margin: 0 auto; max-width: 100%" />
 
-Young developer are directly moved to React and Angular and that is a big red indicator for their personal skill development. It's not young developers are bad at HTMl/CSS. The major problem is not HTML/CSS but the exposure they are given to it. While taking interview many candidates directly jump on to technologies like Angular and ReactJS (JavaScript Framework) without understanding the internal workings of HTML and CSS.
+Young developers are directly moved to React and Angular and that is a big red indicator for their personal skill development. It's not young developers are bad at HTML/CSS. The major problem is not HTML/CSS but the exposure they are given to it. While taking interview many candidates directly jump on to technologies like Angular and ReactJS (JavaScript Framework) without understanding the internal workings of HTML and CSS.
 
-Everything you see on the web is built on HTML and CSS. JavaScript only gives the interactiveness to a site. Now in the modern age, the site needs to work as an App. So JavaScript Frameworks and libraries are made to make the site work as an app. There is a major practice problem such that developers get too much involved in framework JS. I have heard developers losing grip on HTML and CSS as tickets have major work on App improvements bit and not UI changes. I recommend developer to practicing on developing an app from scratch, once a month, so they get full insight of how web architecture of SPA and PWA work around to generate HTML light DOM and CSS.
+Everything you see on the web is built on HTML and CSS. JavaScript only gives the interactiveness to a site. Now in the modern age, the site needs to work as an App. So JavaScript Frameworks and libraries are made to make the site work as an app. There is a major practice problem such that developers get too much involved in framework JS. I have heard developers losing grip on HTML and CSS as tickets have major work on App improvements bit and not UI changes. I recommend developers to practice on developing an app from scratch, once a month, so they get the full insight of how web architecture of SPA and PWA workaround to generate HTML light DOM and CSS.
 
 ### Content
 - [Clear Introduction](/html-css/clear-introduction)
@@ -30,12 +30,12 @@ Everything you see on the web is built on HTML and CSS. JavaScript only gives th
 
 <img src="./assets/img/part-2.png" style="display: block; margin: 0 auto; max-width: 100%" />
 
-Once your core of javascript is strong, you can work in any front end Framework with ease. Using this knowledge you could earn the most merit in Web development on Apps like SPA and PWA. Many developers in interview study a lot on React and redux but fails to answer the core mechanisms on how object works. 70% developers in interview who know redux, fail to answer below example
+Once your core of javascript is strong, you can work in any front end framework with ease. Using this knowledge you could earn the most merit in Web development on Apps like SPA and PWA. Many developers in the interview study a lot on React and redux but fail to answer the core mechanisms on how an object works. 70% of developers in the interview who know redux, fail to answer below example
 ```js
 const a = { name: 'abc' };
 const b = a;
 b.name = 'xyz';
-console.log(a.name); // Output is 'xyz'. I dont want object 'a' to change. How do I do that?
+console.log(a.name); // Output is 'xyz'. I don't want the object 'a' to change. How do I do that?
 ```
 If you are unable to answer this, you need to make your core knowledge of JavaScript stronger as knowing Redux means NOTHING if you can't solve this.
 
@@ -78,7 +78,7 @@ If you are unable to answer this, you need to make your core knowledge of JavaSc
 
 <img src="./assets/img/part-3.png" style="display: block; margin: 0 auto; max-width: 100%" />
 
-Starting coding in react project directy is a bad practice and should be avoided. We have to first modulate the mind's approach on how to relating desired HTML and CSS output with component. While coming in from imperative ecosystem like jQuery, you have to tweak your mind to think in a declarative fashion to start working with React. Below are the steps to do so.
+Starting coding in react project directly is a bad practice and should be avoided. We have to first modulate the mind's approach on how to relating desired HTML and CSS output with the component. While coming in from imperative ecosystem like jQuery, you have to tweak your mind to think in a declarative fashion to start working with React. Below are the steps to do so.
 
 ### Content
 
@@ -95,7 +95,7 @@ Starting coding in react project directy is a bad practice and should be avoided
 
 <img src="./assets/img/part-4.png" style="display: block; margin: 0 auto; max-width: 100%" />
 
-In previous part's final chapter, you saw how React with JSX is compiled using libraries like React, React DOM and babel. That example was good for small applications. However while working on bigger project a compiled version is required offload client resources for compilation and improve performance in loading. Hence we first have to understand how to work with node package manager(npm) and Webpack that collects the resource and compiles the JSX code.
+In the previous part's final chapter, you saw how ReactJS with JSX is compiled using libraries like React, React DOM and babel. That example was good for small applications. However, while working on a bigger project a compiled version is required offload client resources for compilation and improve performance in loading. Hence we first have to understand how to work with a node package manager(npm) and Webpack that collects the resource and compiles the JSX code.
 
 ### Content
 
@@ -117,8 +117,8 @@ In previous part's final chapter, you saw how React with JSX is compiled using l
 
 <img src="./assets/img/part-5.png" style="display: block; margin: 0 auto; max-width: 100%" />
 
-React is just a library. However every React Project is design with an hierarchy where the Apps.js load the react router. Then the specific route load the presentation or container component and later these components load the operation components of the project. Here is a sample repo to showcase this organisation: https://github.com/meetajhu/react-spa-template.
-Hence, the learning path below is organised in same fashion to relate you work flow. This Hierarchy is further used to relate to usablity and flow redux state management.
+React is just a library. However, every ReactJS Project is designed with a hierarchy where the Apps.js load the react-router. Then the specific route load the presentation or container component and later these components load the operational components of the project. Here is a sample repo to showcase this organisation: https://github.com/meetajhu/react-spa-template.
+Hence, the learning path below is organised in the same fashion to relate your workflow. This Hierarchy is further used to relate to usability and flow redux state management.
 
 <img src="./assets/img/heirarchy-of-react.png" style="display: block; margin: 0 auto; max-width: 100%" />
 
