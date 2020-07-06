@@ -43,7 +43,7 @@ If you are unable to answer this, you need to make your core knowledge of JavaSc
 - [Declaration, Datatypes and Type conversions](/core-of-javascript/declaration-datatypes-and-type-conversions)
 - [Comparisions](https://javascript.info/comparison)
 - [Operators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Operators) (Majorly [Logical](https://javascript.info/logical-operators))
-- [Loops and Conditions]()
+- [Loops and Conditions](/core-of-javascript/loop-and-conditions)
 - [Iterators and Generators](https://javascript.info/generators-iterators) ([Second Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Iterators_and_Generators))
 - [Objects](https://javascript.info/object-basics)
 - Data Structures
