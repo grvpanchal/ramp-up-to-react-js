@@ -20,11 +20,11 @@ Young developers are directly moved to React and Angular and that is a big red i
 Everything you see on the web is built on HTML and CSS. JavaScript only gives the interactiveness to a site. Now in the modern age, the site needs to work as an App. So JavaScript Frameworks and libraries are made to make the site work as an app. There is a major practice problem such that developers get too much involved in framework JS. I have heard developers losing grip on HTML and CSS as tickets have major work on App improvements bit and not UI changes. I recommend developers to practice on developing an app from scratch, once a month, so they get the full insight of how web architecture of SPA and PWA workaround to generate HTML light DOM and CSS.
 
 ### Content
-- [Clear Introduction](/html-css/clear-introduction)
-- [HTML](/html-css/html)
-- [CSS](/html-css/css)
-- [Developer's insight into UI and UX](/html-css/developers-insight-into-ui-ux)
-- [Essential HTML and CSS for SPA](/html-css/essential-html-css-for-spa)
+- [Clear Introduction](./html-css/clear-introduction)
+- [HTML](./html-css/html)
+- [CSS](./html-css/css)
+- [Developer's insight into UI and UX](./html-css/developers-insight-into-ui-ux)
+- [Essential HTML and CSS for SPA](./html-css/essential-html-css-for-spa)
 
 ## Part 2: Core of JavaScript
 
@@ -40,10 +40,10 @@ console.log(a.name); // Output is 'xyz'. I don't want the object 'a' to change. 
 If you are unable to answer this, you need to make your core knowledge of JavaScript stronger as knowing Redux means NOTHING if you can't solve this.
 
 ### Content
-- [Declaration, Datatypes and Type conversions](/core-of-javascript/declaration-datatypes-and-type-conversions)
+- [Declaration, Datatypes and Type conversions](./core-of-javascript/declaration-datatypes-and-type-conversions)
 - [Comparisions](https://javascript.info/comparison)
 - [Operators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Operators) (Majorly [Logical](https://javascript.info/logical-operators))
-- [Loops and Conditions](/core-of-javascript/loop-and-conditions)
+- [Loops and Conditions](./core-of-javascript/loop-and-conditions)
 - [Iterators and Generators](https://javascript.info/generators-iterators) ([Second Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Iterators_and_Generators))
 - [Objects](https://javascript.info/object-basics)
 - Data Structures
@@ -52,7 +52,7 @@ If you are unable to answer this, you need to make your core knowledge of JavaSc
     - [WeakMap and WeakSet](https://javascript.info/weakmap-weakset)
     - [Date](https://javascript.info/date)
 - [Destructuring assignment](https://javascript.info/destructuring-assignment)
-- [Functions, Arrow Function and binding](/core-of-javascript/functions-arrow-functions-and-binding)
+- [Functions, Arrow Function and binding](./core-of-javascript/functions-arrow-functions-and-binding)
 - [Decorators and Forwarding](https://javascript.info/call-apply-decorators)
 - [ProtoType and Prototypal Inheritance](https://javascript.info/prototypes)
 - [Understanding Scope](https://scotch.io/tutorials/understanding-scope-in-javascript)
@@ -89,7 +89,7 @@ Starting coding in react project directly is a bad practice and should be avoide
 - [Bending CSS to Objects](https://www.w3schools.com/react/react_css.asp)
 - [Ways of Styling in React](https://blog.bitsrc.io/5-ways-to-style-react-components-in-2019-30f1ccc2b5b)
 - [Thinking in React](https://reactjs.org/docs/thinking-in-react.html)
-- [Hello World with CDNs](/react/hello-world-with-cdns)
+- [Hello World with CDNs](./react/hello-world-with-cdns)
 
 ## Part 4: Prerequisites of React
 
@@ -128,7 +128,7 @@ Hence, the learning path below is organised in the same fashion to relate your w
 - [Presentation and Container Components(also known a modules, views in other framework)](https://css-tricks.com/learning-react-container-components/#container-components)
 - Components
     - [Rendering the JSX](https://itnext.io/react-jsx-rendering-4405d3a3d6c3)
-    - [Loop and Conditional Rendering](/react/loop-and-conditional-rendering)
+    - [Loop and Conditional Rendering](./react/loop-and-conditional-rendering)
     - [Working with Props](https://itnext.io/what-is-props-and-how-to-use-it-in-react-da307f500da0)
     - [Composition vs Inheritance](https://reactjs.org/docs/composition-vs-inheritance.html)
     - [Passing the Data to Component: State and Lifecycle](https://itnext.io/react-understanding-state-lifecycle-d45df5d2cf3f) ([Second Reference](https://itnext.io/react-setstate-usage-and-gotchas-ac10b4e03d60))
@@ -152,7 +152,7 @@ Understand how a single state object works for maintaining the state of the enti
 
 - [The State of Immutability](https://medium.com/dailyjs/the-state-of-immutability-169d2cd11310)
 - [Available State Management](https://openexpoeurope.com/the-10-best-tools-for-state-management-in-front-end/)
-- [Redux](/state-management/redux)
+- [Redux](./state-management/redux)
     - [thunk](https://medium.com/@stowball/a-dummys-guide-to-redux-and-thunk-in-react-d8904a7005d3)
     - [SAGA](https://redux-saga.js.org/)
 - [React Hooks vs Redux](https://tsh.io/blog/react-state-management-react-hooks-vs-redux/#:~:text=React%20state%20management%20%E2%80%93%20why%20is,result%20of%20the%20user's%20action)
